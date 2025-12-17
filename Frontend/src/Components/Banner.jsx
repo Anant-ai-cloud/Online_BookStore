@@ -12,7 +12,7 @@ function Banner() {
                             <span className='text-pink-500'>new everyday</span>
                         </h1>
                         <p className='text-xl'>
-                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis, qui vel quaerat assumenda soluta perferendis dolores illo dignissimos non quibusdam reprehenderit facere magnam laborum dolorem
+                            This is an online bookStore designed, for online readers here you can read books of every genre.
                         </p>
                         <label className="input validator w-full border">
                             <svg className="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
